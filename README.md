@@ -1,3 +1,3 @@
 # Kivy-app
-A Kivy-app for my school project.</br>
-done using the **kivy** library of python.
+A Calculator App for my school project.</br>
+done using the [Kivy](https://kivy.org/#home) library of python.
